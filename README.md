@@ -1,7 +1,7 @@
-- 👋 Hi, I’m sadat Junaid
-- 👀 I’m interested in cyber security and web development
-- 🌱 I’m currently learning networking and python
-- 💞️ I’m looking to collaborate on cyber security
+- 👋 Hi, I’m Sadat Junaid
+- 👀 I’m interested in Data Science and backend development
+- 🌱 I’m currently learning data analysis and python
+- 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me sadatjunaid786@gmail.com
 
 <!---
